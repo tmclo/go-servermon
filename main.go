@@ -11,8 +11,8 @@ import (
 	"time"
 )
 
-const user = "b3e751a23e3605"
-const password = "d5c7f01a2aa78d"
+const user = ""     // Mailtrap USER
+const password = "" // Mailtrap Password
 const sender = "no-reply@example.com"
 
 var to = []string{
