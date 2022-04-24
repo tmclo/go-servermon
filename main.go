@@ -16,7 +16,7 @@ const password = "" // Mailtrap Password
 const sender = "no-reply@example.com"
 
 var to = []string{
-	"tom@springsy.co.uk",
+	"me@example.com", // your email or list of emails for alerts to be sent to
 }
 
 type Mail struct {
